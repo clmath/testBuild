@@ -1,0 +1,17 @@
+{
+  "name": "dpointer-build",
+  "version": "0.5.0",
+  "dependencies": {
+    "requirejs-dplugins": "0.5.x"
+  },
+  "devDependencies": {
+    "dpointer": "0.5.0"
+  },
+  "ignore": [
+    ".jshintrc",
+    ".gitattributes",
+    ".travis.yml",
+    "tests",
+    "CONTRIBUTING.md"
+  ]
+}

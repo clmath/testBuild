@@ -1,0 +1,19 @@
+{
+  "name": "ecma402-build",
+  "version": "0.3.0",
+  "dependencies": {
+    "requirejs": "2.1.x",
+    "requirejs-text": "2.0.x",
+    "requirejs-dplugins": "0.5.x"
+  },
+  "ignore": [
+    ".jshintrc",
+    ".gitattributes",
+    ".travis.yml",
+    "tests",
+    "CONTRIBUTING.md"
+  ],
+  "devDependencies": {
+    "ecma402": "0.3.0"
+  }
+}
