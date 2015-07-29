@@ -1,0 +1,16 @@
+[submodule "dcl"]
+	path = dcl
+	url = https://github.com/uhop/dcl.git
+	branch = master
+[submodule "dojo"]
+	path = dojo
+	url = https://github.com/dojo/dojo.git
+[submodule "dstore"]
+	path = dstore
+	url = https://github.com/SitePen/dstore.git
+[submodule "requirejs-text"]
+	path = requirejs-text
+	url = https://github.com/requirejs/text.git
+[submodule "requirejs-domready"]
+	path = requirejs-domready
+	url = https://github.com/requirejs/domReady.git
