@@ -17,3 +17,6 @@
 [submodule "domready"]
 	path = domready
 	url = https://github.com/requirejs/domReady.git
+[submodule "dcolor-build"]
+	path = dcolor-build
+	url = https://github.com/ibm-js/dcolor-build.git
